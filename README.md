@@ -273,7 +273,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [CMA Voyage Finder](https://www.cma-cgm.com/ebusiness/schedules/voyage) | search for voyage details by voyage number or ship name |
 | [The Shipping Database](https://theshippingdatabase.com/) | comprehensive archive of the world ships. There is even data for 1820!!!!!!! |
 | [Submarinecablemap.com](https://www.submarinecablemap.com/) | submarine communications cables map |
-| [Submarine Vessels Tracking Map](https://www.marinevesseltraffic.com/submarine-vessels-tracking-map) |     |
+| [Submarine Vessels Tracking Map](https://www.marinevesseltraffic.com/submarine-vessels-tracking-map) |Interactive global map tracking naval movements, submarine support vessels and commercial shipping traffic. |
 | [Live Cruise Ship Tracker](https://www.livecruiseshiptracker.com/) | Large catalogue of cruise ship research materials: - map with trackers; - timetables; - webcams on decks and in ports; - elaborate thematic news aggregator |
 
 ### [](#railway)Railway
