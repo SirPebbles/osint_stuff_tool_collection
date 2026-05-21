@@ -269,7 +269,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | --- | --- |
 | [Track Trace](https://www.track-trace.com/container) | tracking a shipping container by number |
 | [Container Tracking](http://container-tracking.org/) | tracking a shipping container by number |
-| [Searates]([https://www.searates.com]) | tracking a shipping container by number. Calculate travel time between two ports (with optimal path). CO2 calculator. Logistics map. Ship schedules and vessel tracking by route, port or vessel. Note: free tier has daily request limit. |
+| [Searates](https://www.searates.com) | tracking a shipping container by number. Calculate travel time between two ports (with optimal path). CO2 calculator. Logistics map. Ship schedules and vessel tracking by route, port or vessel. Note: free tier has daily request limit. |
 | [CMA Voyage Finder](https://www.cma-cgm.com/ebusiness/schedules/voyage) | search for voyage details by voyage number or ship name |
 | [The Shipping Database](https://theshippingdatabase.com/) | comprehensive archive of the world ships. There is even data for 1820!!!!!!! |
 | [Submarinecablemap.com](https://www.submarinecablemap.com/) | submarine communications cables map |
